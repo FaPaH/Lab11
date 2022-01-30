@@ -1,4 +1,4 @@
-package sumdu.edu.ua.lab11;
+package sumdu.edu.ua.lab11.model;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

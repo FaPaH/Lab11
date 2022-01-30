@@ -1,4 +1,4 @@
-package sumdu.edu.ua.lab11;
+package sumdu.edu.ua.lab11.model;
 
 public class Subject {
 

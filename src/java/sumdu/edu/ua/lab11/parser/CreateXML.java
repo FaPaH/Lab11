@@ -1,7 +1,9 @@
-package sumdu.edu.ua.lab11;
+package sumdu.edu.ua.lab11.parser;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+import sumdu.edu.ua.lab11.model.Student;
+import sumdu.edu.ua.lab11.model.Subject;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
